@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.0",
+    "nodemon": "^3.1.0"
+  },
+  "name": "database",
+  "version": "1.0.0",
+  "main": "db.js",
+  "scripts": {
+    "start": "nodemon db.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
